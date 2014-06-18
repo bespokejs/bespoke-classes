@@ -1,0 +1,11 @@
+{
+  "name": "bespoke-classes",
+  "version": "0.0.0",
+  "main": "./dist/bespoke-classes.js",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "bespoke.js": "^1.0.0"
+  }
+}
