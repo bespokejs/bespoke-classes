@@ -1,5 +1,5 @@
 /*!
- * bespoke-classes v0.0.0
+ * bespoke-classes v1.0.0-beta
  *
  * Copyright 2014, Mark Dalgleish
  * This content is released under the MIT license
