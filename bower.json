@@ -1,6 +1,6 @@
 {
   "name": "bespoke-classes",
-  "version": "1.0.0-beta",
+  "version": "1.0.0",
   "main": "./dist/bespoke-classes.js",
   "ignore": [
     "**/.*"
