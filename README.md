@@ -4,8 +4,6 @@
 
 Deck status classes for [Bespoke.js](http://markdalgleish.com/projects/bespoke.js)
 
-> **Please note:** This plugin is in beta and designed for use with a future release of Bespoke.js
-
 ## Download
 
 Download the [production version][min] or the [development version][max], or use a [package manager](#package-managers).
